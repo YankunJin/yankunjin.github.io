@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![yankunjin](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/YankunJin/yankunjin.github.io)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+这是金延坤的个人主页 demo，你好啊啊嗷嗷啊啊啊啊啊！
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 123456789@zjgsu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+浙江工商大学，计算机科学与技术学院, 2024—2027.\
+浙江工商大学，计算机科学与技术学院, 2019—2023
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+人工智能， 大语言模型， 软件工程
 
